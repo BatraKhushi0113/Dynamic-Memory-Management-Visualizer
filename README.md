@@ -68,25 +68,3 @@ This gives the **minimum possible page faults** and is used as a benchmark.
 
 ---
 
-## 📂 Project Structure
-
-```bash
-DynamicMemoryManagement/
-│
-├── algorithms/
-│   ├── __init__.py
-│   ├── fifo.py
-│   ├── lru.py
-│   └── optimal.py
-│
-├── core/
-│   ├── __init__.py
-│   ├── memory.py
-│   └── process.py
-│
-├── utils/
-│   ├── __init__.py
-│   └── logger.py
-│
-├── app.py
-└── main.py
